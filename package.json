@@ -1,0 +1,7 @@
+{
+    "name": "stg",
+    "version": "0.0.0",
+    "bin": {
+        "stg": "./index.js"
+    }
+}
